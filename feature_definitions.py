@@ -1,38 +1,40 @@
-key_features = [
-    'Price & affordability',
-    'Location',
-    'Privacy',
-    'Amenities',
-    'Pet-friendly',
-    'Proximity to work/school',
-    'Proximity to public transit',
-    'Proximity to businesses'
+ranking_features = [
+    # 'Full name',
+    # 'Race/ethnicity',
+    # 'Prior connection (1)',
+    # 'Prior connection (2)',
+    # 'Price & affordability (1)',
+    # 'Price & affordability (2)',
+    # 'Price & affordability (3)',
+    'Location (1)',
+    'Location (2)',
+    # 'Proximity to work/school',
+    # 'Proximity to public transit',
+    # 'Proximity to businesses',
+    # 'Privacy',
+    # 'Cleanliness',
+    # 'Bedtime',
+    # 'Smoker/non-smoker',
+    # 'Pet-friendly'
 ]
-roommate_features = [
-    'Race/ethnicity',
-    'Prior connection',
-    'Smoker/non-smoker',
-    'Bedtime',
-    'Cleanliness',
-    'Open to pets'
-]
+
 survey_features = [
     # 'Full name',
     # 'Race/ethnicity',
     # 'College/university',
     # 'Company',
-    'Minimum monthly rent',
-    'Maximum monthly rent',
-    'Actual monthly rent',
+    # 'Minimum monthly rent',
+    # 'Maximum monthly rent',
+    # 'Actual monthly rent',
     # 'Location',
     'Latitude',
     'Longitude',
-    'Work/school proximity',
-    'Public transit proximity',
-    'Local business proximity',
-    'Privacy level',
-    'Cleanliness level',
+    # 'Work/school proximity',
+    # 'Public transit proximity',
+    # 'Local business proximity',
+    # 'Privacy level',
+    # 'Cleanliness level',
     # 'Bedtime',
-    'Smoker/non-smoker',
-    'Pet owner'
+    # 'Smoker/non-smoker',
+    # 'Pet owner'
 ]
