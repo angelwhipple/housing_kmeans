@@ -13,7 +13,7 @@ The analysis draws from two self-conducted surveys gauging short-term relocation
 - 2024 Survey (for human-informed feature weights): Collected importance rankings of relocation-related features from undergraduates, graduate students, and interns. See the dataset [here](https://docs.google.com/spreadsheets/d/1DGOwN7Gwb7nG2BkWNWkKRHiLhEgzNuqkeso_NzWX6Mo/edit?usp=sharing)
 - 2025 Survey (for clustering): Collected numerical feature values for the same relocation factors from a similar demographic. See the dataset [here](https://docs.google.com/spreadsheets/d/1a7sTa1XrTWnLoJEi-FCJkWHguHw9MIXtH7jacJG0QZ8/edit?usp=sharing)
 
-Respondents attended universities such as MIT, Northeastern, Texas Southern, Georgia Tech, UT Austin, and more. Interns were included from companies like Apple, NVIDIA, Bloomberg, Google, and Amazon.
+Respondents included students/interns from 15 different universities, and 7 different companies. Universities surveyed included MIT, Northeastern, Texas Southern, Georgia Tech, UT Austin, and more. Companies included Apple, NVIDIA, Bloomberg, Google, and Amazon.
 
 
 
